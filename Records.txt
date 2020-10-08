@@ -1,0 +1,22 @@
+
+
+				Bill
+				****
+		Name: 1		Date: 03/03/2020
+		-------------------------------------------
+		Items				Price
+		*****				*****
+
+		Pizza
+		=====
+		1.Small Pizza			500/-
+		Flavour: Chicken Fajita
+		Crust:/-
+
+		Appertizers & Beverages
+		=========== = =========
+		1. Soft Drink   		200/-
+		1 .Garlic Bread   		150/-
+		Total:				850/-
+		-------------------------------------------
+				Thank You!
